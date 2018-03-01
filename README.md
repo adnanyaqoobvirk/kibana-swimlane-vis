@@ -33,6 +33,7 @@ Kibana enforces that installed plugins match the version of Kibana itself, so di
 swimlane plugin are available for each new Kibana release.
 
 The distribution for Kibana 6 has been built for versions:
+* 6.2.1
 * 6.1.3
 * 6.1.2
 * 6.1.1
@@ -70,184 +71,190 @@ For Kibana 4 a single release was available and tested with versions 4.3, 4.4, 4
 
 
 ## Installation
+### Kibana 6.2.1:
+
+```
+bin/kibana-plugin install https://github.com/adnanyaqoobvirk/kibana-swimlane-vis/releases/download/v6.2.1/prelert_swimlane_vis-6.2.1.zip
+```
+
 ### Kibana 6.1.3:
 
 ```
-bin/kibana-plugin install https://github.com/prelert/kibana-swimlane-vis/releases/download/v6.1.3/prelert_swimlane_vis-6.1.3.zip
+bin/kibana-plugin install https://github.com/adnanyaqoobvirk/kibana-swimlane-vis/releases/download/v6.1.3/prelert_swimlane_vis-6.1.3.zip
 ```
 
 ### Kibana 6.1.2:
 
 ```
-bin/kibana-plugin install https://github.com/prelert/kibana-swimlane-vis/releases/download/v6.1.2/prelert_swimlane_vis-6.1.2.zip
+bin/kibana-plugin install https://github.com/adnanyaqoobvirk/kibana-swimlane-vis/releases/download/v6.1.2/prelert_swimlane_vis-6.1.2.zip
 ```
 
 ### Kibana 6.1.1:
 
 ```
-bin/kibana-plugin install https://github.com/prelert/kibana-swimlane-vis/releases/download/v6.1.1/prelert_swimlane_vis-6.1.1.zip
+bin/kibana-plugin install https://github.com/adnanyaqoobvirk/kibana-swimlane-vis/releases/download/v6.1.1/prelert_swimlane_vis-6.1.1.zip
 ```
 
 ### Kibana 6.1.0:
 
 ```
-bin/kibana-plugin install https://github.com/prelert/kibana-swimlane-vis/releases/download/v6.1.0/prelert_swimlane_vis-6.1.0.zip
+bin/kibana-plugin install https://github.com/adnanyaqoobvirk/kibana-swimlane-vis/releases/download/v6.1.0/prelert_swimlane_vis-6.1.0.zip
 ```
 
 ### Kibana 6.0.1:
 
 ```
-bin/kibana-plugin install https://github.com/prelert/kibana-swimlane-vis/releases/download/v6.0.1/prelert_swimlane_vis-6.0.1.zip
+bin/kibana-plugin install https://github.com/adnanyaqoobvirk/kibana-swimlane-vis/releases/download/v6.0.1/prelert_swimlane_vis-6.0.1.zip
 ```
 
 ### Kibana 6.0.0:
 
 ```
-bin/kibana-plugin install https://github.com/prelert/kibana-swimlane-vis/releases/download/v6.0.0/prelert_swimlane_vis-6.0.0.zip
+bin/kibana-plugin install https://github.com/adnanyaqoobvirk/kibana-swimlane-vis/releases/download/v6.0.0/prelert_swimlane_vis-6.0.0.zip
 ```
 
 ### Kibana 5.6.6:
 
 ```
-bin/kibana-plugin install https://github.com/prelert/kibana-swimlane-vis/releases/download/v5.6.6/prelert_swimlane_vis-5.6.6.zip
+bin/kibana-plugin install https://github.com/adnanyaqoobvirk/kibana-swimlane-vis/releases/download/v5.6.6/prelert_swimlane_vis-5.6.6.zip
 ```
 
 ### Kibana 5.6.5:
 
 ```
-bin/kibana-plugin install https://github.com/prelert/kibana-swimlane-vis/releases/download/v5.6.5/prelert_swimlane_vis-5.6.5.zip
+bin/kibana-plugin install https://github.com/adnanyaqoobvirk/kibana-swimlane-vis/releases/download/v5.6.5/prelert_swimlane_vis-5.6.5.zip
 ```
 
 ### Kibana 5.6.4:
 
 ```
-bin/kibana-plugin install https://github.com/prelert/kibana-swimlane-vis/releases/download/v5.6.4/prelert_swimlane_vis-5.6.4.zip
+bin/kibana-plugin install https://github.com/adnanyaqoobvirk/kibana-swimlane-vis/releases/download/v5.6.4/prelert_swimlane_vis-5.6.4.zip
 ```
 
 ### Kibana 5.6.3:
 
 ```
-bin/kibana-plugin install https://github.com/prelert/kibana-swimlane-vis/releases/download/v5.6.3/prelert_swimlane_vis-5.6.3.zip
+bin/kibana-plugin install https://github.com/adnanyaqoobvirk/kibana-swimlane-vis/releases/download/v5.6.3/prelert_swimlane_vis-5.6.3.zip
 ```
 
 ### Kibana 5.6.2:
 
 ```
-bin/kibana-plugin install https://github.com/prelert/kibana-swimlane-vis/releases/download/v5.6.2/prelert_swimlane_vis-5.6.2.zip
+bin/kibana-plugin install https://github.com/adnanyaqoobvirk/kibana-swimlane-vis/releases/download/v5.6.2/prelert_swimlane_vis-5.6.2.zip
 ```
 
 ### Kibana 5.6.1:
 
 ```
-bin/kibana-plugin install https://github.com/prelert/kibana-swimlane-vis/releases/download/v5.6.1/prelert_swimlane_vis-5.6.1.zip
+bin/kibana-plugin install https://github.com/adnanyaqoobvirk/kibana-swimlane-vis/releases/download/v5.6.1/prelert_swimlane_vis-5.6.1.zip
 ```
 
 ### Kibana 5.6.0:
 
 ```
-bin/kibana-plugin install https://github.com/prelert/kibana-swimlane-vis/releases/download/v5.6.0/prelert_swimlane_vis-5.6.0.zip
+bin/kibana-plugin install https://github.com/adnanyaqoobvirk/kibana-swimlane-vis/releases/download/v5.6.0/prelert_swimlane_vis-5.6.0.zip
 ```
 
 ### Kibana 5.5.3:
 
 ```
-bin/kibana-plugin install https://github.com/prelert/kibana-swimlane-vis/releases/download/v5.5.3/prelert_swimlane_vis-5.5.3.zip
+bin/kibana-plugin install https://github.com/adnanyaqoobvirk/kibana-swimlane-vis/releases/download/v5.5.3/prelert_swimlane_vis-5.5.3.zip
 ```
 
 ### Kibana 5.5.2:
 
 ```
-bin/kibana-plugin install https://github.com/prelert/kibana-swimlane-vis/releases/download/v5.5.2/prelert_swimlane_vis-5.5.2.zip
+bin/kibana-plugin install https://github.com/adnanyaqoobvirk/kibana-swimlane-vis/releases/download/v5.5.2/prelert_swimlane_vis-5.5.2.zip
 ```
 
 ### Kibana 5.5.1:
 
 ```
-bin/kibana-plugin install https://github.com/prelert/kibana-swimlane-vis/releases/download/v5.5.1/prelert_swimlane_vis-5.5.1.zip
+bin/kibana-plugin install https://github.com/adnanyaqoobvirk/kibana-swimlane-vis/releases/download/v5.5.1/prelert_swimlane_vis-5.5.1.zip
 ```
 
 ### Kibana 5.5.0:
 
 ```
-bin/kibana-plugin install https://github.com/prelert/kibana-swimlane-vis/releases/download/v5.5.0/prelert_swimlane_vis-5.5.0.zip
+bin/kibana-plugin install https://github.com/adnanyaqoobvirk/kibana-swimlane-vis/releases/download/v5.5.0/prelert_swimlane_vis-5.5.0.zip
 ```
 
 ### Kibana 5.4.3:
 
 ```
-bin/kibana-plugin install https://github.com/prelert/kibana-swimlane-vis/releases/download/v5.4.3/prelert_swimlane_vis-5.4.3.zip
+bin/kibana-plugin install https://github.com/adnanyaqoobvirk/kibana-swimlane-vis/releases/download/v5.4.3/prelert_swimlane_vis-5.4.3.zip
 ```
 
 ### Kibana 5.4.2:
 
 ```
-bin/kibana-plugin install https://github.com/prelert/kibana-swimlane-vis/releases/download/v5.4.2/prelert_swimlane_vis-5.4.2.zip
+bin/kibana-plugin install https://github.com/adnanyaqoobvirk/kibana-swimlane-vis/releases/download/v5.4.2/prelert_swimlane_vis-5.4.2.zip
 ```
 
 ### Kibana 5.4.1:
 
 ```
-bin/kibana-plugin install https://github.com/prelert/kibana-swimlane-vis/releases/download/v5.4.1/prelert_swimlane_vis-5.4.1.zip
+bin/kibana-plugin install https://github.com/adnanyaqoobvirk/kibana-swimlane-vis/releases/download/v5.4.1/prelert_swimlane_vis-5.4.1.zip
 ```
 
 ### Kibana 5.4.0:
 
 ```
-bin/kibana-plugin install https://github.com/prelert/kibana-swimlane-vis/releases/download/v5.4.0/prelert_swimlane_vis-5.4.0.zip
+bin/kibana-plugin install https://github.com/adnanyaqoobvirk/kibana-swimlane-vis/releases/download/v5.4.0/prelert_swimlane_vis-5.4.0.zip
 ```
 
 ### Kibana 5.3.2:
 
 ```
-bin/kibana-plugin install https://github.com/prelert/kibana-swimlane-vis/releases/download/v5.3.2/prelert_swimlane_vis-5.3.2.zip
+bin/kibana-plugin install https://github.com/adnanyaqoobvirk/kibana-swimlane-vis/releases/download/v5.3.2/prelert_swimlane_vis-5.3.2.zip
 ```
 
 ### Kibana 5.3.1:
 
 ```
-bin/kibana-plugin install https://github.com/prelert/kibana-swimlane-vis/releases/download/v5.3.1/prelert_swimlane_vis-5.3.1.zip
+bin/kibana-plugin install https://github.com/adnanyaqoobvirk/kibana-swimlane-vis/releases/download/v5.3.1/prelert_swimlane_vis-5.3.1.zip
 ```
 
 ### Kibana 5.3.0:
 
 ```
-bin/kibana-plugin install https://github.com/prelert/kibana-swimlane-vis/releases/download/v5.3.0/prelert_swimlane_vis-5.3.0.zip
+bin/kibana-plugin install https://github.com/adnanyaqoobvirk/kibana-swimlane-vis/releases/download/v5.3.0/prelert_swimlane_vis-5.3.0.zip
 ```
 
 ### Kibana 5.2.2:
 
 ```
-bin/kibana-plugin install https://github.com/prelert/kibana-swimlane-vis/releases/download/v5.2.2/prelert_swimlane_vis-5.2.2.zip
+bin/kibana-plugin install https://github.com/adnanyaqoobvirk/kibana-swimlane-vis/releases/download/v5.2.2/prelert_swimlane_vis-5.2.2.zip
 ```
 
 ### Kibana 5.1.2:
 
 ```
-bin/kibana-plugin install https://github.com/prelert/kibana-swimlane-vis/releases/download/v5.1.2/prelert_swimlane_vis-5.1.2.zip
+bin/kibana-plugin install https://github.com/adnanyaqoobvirk/kibana-swimlane-vis/releases/download/v5.1.2/prelert_swimlane_vis-5.1.2.zip
 ```
 
 ### Kibana 5.1.1:
 
 ```
-bin/kibana-plugin install https://github.com/prelert/kibana-swimlane-vis/releases/download/v5.1.1/prelert_swimlane_vis-5.1.1.zip
+bin/kibana-plugin install https://github.com/adnanyaqoobvirk/kibana-swimlane-vis/releases/download/v5.1.1/prelert_swimlane_vis-5.1.1.zip
 ```
 
 ### Kibana 5.0.2:
 
 ```
-bin/kibana-plugin install https://github.com/prelert/kibana-swimlane-vis/releases/download/v5.0.2/prelert_swimlane_vis-5.0.2.zip
+bin/kibana-plugin install https://github.com/adnanyaqoobvirk/kibana-swimlane-vis/releases/download/v5.0.2/prelert_swimlane_vis-5.0.2.zip
 ```
 
 ### Kibana 5.0.1:
 
 ```
-bin/kibana-plugin install https://github.com/prelert/kibana-swimlane-vis/releases/download/v5.0.1/prelert_swimlane_vis-5.0.1.zip
+bin/kibana-plugin install https://github.com/adnanyaqoobvirk/kibana-swimlane-vis/releases/download/v5.0.1/prelert_swimlane_vis-5.0.1.zip
 ```
 
 ### Kibana 5.0.0:
 
 ```
-bin/kibana-plugin install https://github.com/prelert/kibana-swimlane-vis/releases/download/v5.0.0/prelert_swimlane_vis-5.0.0.zip
+bin/kibana-plugin install https://github.com/adnanyaqoobvirk/kibana-swimlane-vis/releases/download/v5.0.0/prelert_swimlane_vis-5.0.0.zip
 ```
 
 ### Kibana 4.x:
@@ -255,13 +262,13 @@ bin/kibana-plugin install https://github.com/prelert/kibana-swimlane-vis/release
 Linux or OS X:
 
 ```
-bin/kibana plugin -i prelert_swimlane_vis -u https://github.com/prelert/kibana-swimlane-vis/archive/v0.1.0.tar.gz
+bin/kibana plugin -i prelert_swimlane_vis -u https://github.com/adnanyaqoobvirk/kibana-swimlane-vis/archive/v0.1.0.tar.gz
 ```
 
 Windows:
 
 ```
-bin/kibana plugin -i prelert_swimlane_vis -u https://github.com/prelert/kibana-swimlane-vis/archive/v0.1.0.zip
+bin/kibana plugin -i prelert_swimlane_vis -u https://github.com/adnanyaqoobvirk/kibana-swimlane-vis/archive/v0.1.0.zip
 ```
 
 
@@ -359,7 +366,7 @@ perform a secondary alphabetical sort to the lane order, select *Ascending* or *
 
 
 ## Issues
-Please file issues [here](https://github.com/prelert/kibana-swimlane-vis/issues).
+Please file issues [here](https://github.com/adnanyaqoobvirk/kibana-swimlane-vis/issues).
 
 
 ## About Prelert
